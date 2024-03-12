@@ -1,0 +1,15 @@
+E:\C sharp Projects\Sol1\Library\bin\Debug\net6.0\Library.exe
+E:\C sharp Projects\Sol1\Library\bin\Debug\net6.0\Library.deps.json
+E:\C sharp Projects\Sol1\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+E:\C sharp Projects\Sol1\Library\bin\Debug\net6.0\Library.dll
+E:\C sharp Projects\Sol1\Library\bin\Debug\net6.0\Library.pdb
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\Library.dll
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\refint\Library.dll
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\Library.pdb
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+E:\C sharp Projects\Sol1\Library\obj\Debug\net6.0\ref\Library.dll
